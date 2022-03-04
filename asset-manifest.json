@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/luxury-hotel/static/css/main.034e8bcc.css",
+    "main.js": "/luxury-hotel/static/js/main.e82e7417.js",
+    "static/js/787.b13ea1c2.chunk.js": "/luxury-hotel/static/js/787.b13ea1c2.chunk.js",
+    "static/media/stay.webp": "/luxury-hotel/static/media/stay.17b089a33414be079c0f.webp",
+    "static/media/card3.webp": "/luxury-hotel/static/media/card3.3a201ddb5085cdbe1702.webp",
+    "static/media/right-img2.webp": "/luxury-hotel/static/media/right-img2.a71a31a5c3ba2001df2f.webp",
+    "static/media/main-img.webp": "/luxury-hotel/static/media/main-img.13721357544dcf3422fb.webp",
+    "static/media/card2.webp": "/luxury-hotel/static/media/card2.74aceb56b9ede376a1e9.webp",
+    "static/media/parallax2.webp": "/luxury-hotel/static/media/parallax2.4e74407266fa7dd6b0cb.webp",
+    "static/media/left-img.webp": "/luxury-hotel/static/media/left-img.339139ab64324d9e48a3.webp",
+    "static/media/card1.webp": "/luxury-hotel/static/media/card1.4aac5a12dc9b0ec57c33.webp",
+    "static/media/right-img1.webp": "/luxury-hotel/static/media/right-img1.b58e94f7c4772525b1c4.webp",
+    "index.html": "/luxury-hotel/index.html",
+    "main.034e8bcc.css.map": "/luxury-hotel/static/css/main.034e8bcc.css.map",
+    "main.e82e7417.js.map": "/luxury-hotel/static/js/main.e82e7417.js.map",
+    "787.b13ea1c2.chunk.js.map": "/luxury-hotel/static/js/787.b13ea1c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.034e8bcc.css",
+    "static/js/main.e82e7417.js"
+  ]
+}
