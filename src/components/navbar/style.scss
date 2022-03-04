@@ -1,0 +1,13 @@
+.btn-outline{
+    border: 1.5px solid #fff;
+    width: max-content;
+    padding: 10px 20px;
+}
+.nav-link{
+    color: rgb(189, 189, 189);
+}
+@media only screen and(max-width:768px){
+    .navbar-wrapper{
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+}
