@@ -18,9 +18,6 @@ function App() {
   return (
     <div className="App">
       <Switch>
-        <Route exact path="/">
-          <HomePage />
-        </Route>
         <Route path="/booking">
           <Booking />
         </Route>
@@ -35,6 +32,9 @@ function App() {
         </Route>
         <Route path="/rooms">
           <RoomsPage />
+        </Route>
+        <Route exact={false} path="/">
+          <HomePage />
         </Route>
       </Switch>
       
