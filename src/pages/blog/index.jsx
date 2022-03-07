@@ -25,7 +25,6 @@ const BlogsPage = () => {
         </div>
       </ParallaxComp>
       <Blogs />
-      <Blogs />
       <FooterC />
     </div>
   );
